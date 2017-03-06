@@ -1,0 +1,100 @@
+{
+    "Novel": {
+        "Lord of the Flies": {
+            "1": {
+                "Title": "The Sound of the Shell"
+            },
+            "2": {
+                "Title": "Fire on the Mountain"
+            },
+            "3": {
+                "Title": "Huts on the Beach"
+            },
+            "4": {
+                "Title": "Painted Faces and Long Hair"
+            },
+            "5": {
+                "Title": "Beast from Water"
+            },
+            "6": {
+                "Title": "Beast from Air"
+            },
+            "7": {
+                "Title": "Shadows and Tall Tress"
+            },
+            "8": {
+                "Title": "Gift for the Darkness"
+            },
+            "9": {
+                "Title": "A View to a Death"
+            },
+            "10": {
+                "Title": "The Shell and the Glasses"
+            },
+            "11": {
+                "Title": "Castle Rock"
+            },
+            "12": {
+                "Title": "Cry of the Hunter"
+            },
+            "13": {
+                "Title": "Notes on Lord of the Flies"
+            }
+        },
+        "The Giver":{
+            "1":{
+                "Title":"Sharing"
+            },
+            "2":{
+                "Title":"Baby Nourishing"
+            },
+            "3":{
+                "Title":"Viewport Changing"
+            },
+            "4":{
+                "Title":"Volunteer"
+            },
+            "5":{
+                "Title":"Enthusiasm"
+            },
+            "6":{
+                "Title":"Chapter6"
+            },
+            "7":{
+                "Title":"Chapter7"
+            },
+            "8":{
+                "Title":"Chapter8"
+            },
+            "9":{
+                "Title":"Chapter9"
+            },
+            "10":{
+                "Title":"Chapter10"
+            },
+            "11":{
+                "Title":"Chapter11"
+            },
+            "12":{
+                "Title":"Chapter12"
+            },
+            "13":{
+                "Title":"Chapter13"
+            },
+            "14":{
+                "Title":"Chapter14"
+            }
+
+
+
+
+
+
+
+
+
+
+        }
+    },
+    "a": "1"
+}
