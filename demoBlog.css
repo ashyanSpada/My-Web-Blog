@@ -1,0 +1,116 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#father{
+	min-width:700px;
+	min-height:500px;
+	margin:5px auto;
+	width:60%;
+	height:100VH;
+	border:4px solid gainsboro;
+	border-radius:10px;
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	align-content:space-around;
+}
+
+#header{
+     width:100%;
+     height:10%;
+     border-bottom:3px solid gainsboro;
+}
+#header:first-child{
+	font-size:40px;
+	text-align:center;
+	transition:opacity 0.75s;
+	user-select:none;
+}
+#header:first-child:hover{
+	opacity:0.5;
+}
+
+#body{
+	width:100%;
+	height:80%;
+	display:flex;
+	flex-flow:row nowrap;
+	justify-content:space-around;
+	align-items:center;
+}
+#left{
+	width:20%;
+	height:100%;
+}
+#left:first-child{
+	text-align:center;
+	border-bottom:2px solid gainsboro;
+}
+#banner{
+	width:100%;
+	border-top:5px solid gainsboro;
+	
+}
+
+.font{
+	font-size:15px;
+	display:block;
+	text-decoration:none;
+}
+#right{
+	position:relative;
+	width:80%;
+	height:100%;
+	border-left:1px solid gainsboro;
+	border-bottom:1px solid gainsboro;
+	display:flex;
+	flex-flow:column nowrap;
+	justify-content:center;
+	align-content:flex-start;
+	overflow-y: scroll;
+	
+}
+#right div{
+	width:100%;
+	height:10%;
+	text-align:center;
+	border-bottom:1px solid gainsboro;
+	line-height:40px;
+}
+#right p{
+	width:100%;
+	height:90%;	
+}
+.button_1{
+	opacity:0;
+	position: absolute;
+	right:0px;
+	bottom:20px;
+	transition:opacity 0.5s;
+}
+.button_2{
+	opacity:0;
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	transition:opacity 0.5s;
+}
+.button_1:hover{
+	opacity:1;
+}
+.button_2:hover{
+	opacity:1;
+}
+#footer{
+	width:100%;
+	height:10%;
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	align-content:flex-start;
+
+}
+.pfont{
+	font-size:1px;
+}
